@@ -8,6 +8,22 @@ permalink: /published_maps
 
 This page collects examples of SBGN-compliant diagrams from various publications.
 
+        <table class="plaintable">
+          <tr>
+            <th class="leftcolumn">
+            <a href="/sbgn/images/published_maps/toure_drosophila.png"
+			data-lightbox="image-gallery" 
+			data-title="PD map of the Drosophila cell cycle">
+            <img class="ssthumbnail" src="/sbgn/images/published_maps/toure_drosophila-cropped.png" style="height: 140px;"/></a>
+            <th class="rightcolumn">
+            <a href="/sbgn/images/published_maps/toure_drosophila.png"
+			data-lightbox="image-gallery" 
+			data-title="PD map of the Drosophila cell cycle">
+            <img class="ssthumbnail" src="/sbgn/images/published_maps/toure_drosophila-cropped.png" style="height: 140px;"/></a>
+            </th>
+          </tr>
+        </table>
+
 ## PD map of the Drosophila cell cycle
 
 ![lenovere two-gene systems](/sbgn/images/published_maps/toure_drosophila.png){: .center-image width="400px"}

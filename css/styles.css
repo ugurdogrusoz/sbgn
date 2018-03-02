@@ -1,5 +1,22 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,400italic,700italic,700);
 
+#plaintable table, table tr, table tr th, table tr td
+{ text-align: center;
+  background: none;
+  width:52%;}
+
+img.ssthumbnail
+{ height: 140px;
+  border: 1px solid #d67614;}
+
+th.leftcolumn
+{ text-align: right;
+  padding: 10px; }
+
+th.rightcolumn
+{ text-align: left;
+  padding: 10px; }
+
 body {
   background-color: #fff;
   padding:50px;
