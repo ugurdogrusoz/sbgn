@@ -8,6 +8,7 @@ permalink: /published_maps
 
 This page collects examples of SBGN-compliant diagrams from various publications.
 
+<div id="published_maps_gallery">
         <table class="plaintable">
           <tr>
             <th class="leftcolumn">
@@ -23,6 +24,7 @@ This page collects examples of SBGN-compliant diagrams from various publications
             </th>
           </tr>
         </table>
+</div>
 
 ## PD map of the Drosophila cell cycle
 
