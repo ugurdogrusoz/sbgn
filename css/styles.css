@@ -11,7 +11,7 @@ img.gallery_thumbnail {
   border: 1px solid gray;
 }
 
-div.gallery_image_title {
+#gallery_image_title div {
   font: 11px;
   font-weight: normal;
 }
