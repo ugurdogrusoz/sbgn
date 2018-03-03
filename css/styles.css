@@ -11,7 +11,7 @@ img.gallery_thumbnail {
   border: 1px solid gray;
 }
 
-.gallery_image_title {
+p.gallery_image_title {
   color: red;
   font-size: x-small;
   font-weight: normal;
