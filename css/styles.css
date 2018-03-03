@@ -12,7 +12,7 @@ img.gallery_thumbnail {
 }
 
 p.gallery_image_title {
-  color: red;
+  align: center;
   font-size: x-small;
   font-weight: normal;
   padding: 0;
