@@ -11,7 +11,7 @@ img.gallery_thumbnail {
   border: 1px solid gray;
 }
 
-#gallery_image_title div {
+.gallery_image_title {
   color: red;
   font-size: x-small;
   font-weight: normal;
@@ -19,7 +19,7 @@ img.gallery_thumbnail {
 
 th.gallery_column {
   text-align: right;
-  padding: 0px; 
+  padding: 4px; 
 }
 
 body {
