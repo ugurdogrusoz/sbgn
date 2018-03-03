@@ -11,6 +11,11 @@ img.gallery_thumbnail {
   border: 1px solid gray;
 }
 
+div.gallery_image_title {
+  font: 11px;
+  font-weight: normal;
+}
+
 th.gallery_column {
   text-align: right;
   padding: 10px; 
