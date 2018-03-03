@@ -15,7 +15,8 @@ p.gallery_image_title {
   color: red;
   font-size: x-small;
   font-weight: normal;
-  padding: 0px;
+  padding: 0;
+  margin: 0;
 }
 
 th.gallery_column {
