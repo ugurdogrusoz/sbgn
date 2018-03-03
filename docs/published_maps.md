@@ -12,7 +12,8 @@ This page collects examples of SBGN-compliant diagrams from various publications
         <table class="gallery_table">
           <tr>
             <th class="gallery_column">
-            <a href="/sbgn/images/published_maps/toure_drosophila.png" data-lightbox="image-gallery" data-title="PD map of the Drosophila cell cycle"><img class="gallery_thumbnail" src="/sbgn/images/published_maps/toure_drosophila-cropped.png" style="height: 140px;"/></a>
+            PD map of the Drosophila cell cycle<br>
+            <a href="/sbgn/images/published_maps/toure_drosophila.png" data-lightbox="image-gallery" data-title="Quick tips for creating effective and impactful biological pathways using the Systems Biology Graphical Notation. Touré et al., 2018, <a href='https://dx.doi.org/10.1371/journal.pcbi.1005740'>doi:10.1371/journal.pcbi.1005740</a>"><img class="gallery_thumbnail" src="/sbgn/images/published_maps/toure_drosophila-cropped.png" style="height: 140px;"/></a>
             </th>
             <th class="gallery_column">
             <a href="/sbgn/images/published_maps/lenovere_genenetwork.png" data-lightbox="image-gallery" data-title="PD map of two-gene system behaviour"><img class="gallery_thumbnail" src="/sbgn/images/published_maps/lenovere_genenetwork-cropped.png" style="height: 140px;"/></a>
