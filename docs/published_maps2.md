@@ -8,6 +8,7 @@ permalink: /published_maps
 
 This page collects examples of SBGN-compliant diagrams from various publications.
 
+
 <div id="published_maps_gallery">
         <table class="gallery_table">
           <tr>
