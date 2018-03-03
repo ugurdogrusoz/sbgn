@@ -11,10 +11,14 @@ img.gallery_thumbnail {
   border: 1px solid gray;
 }
 
-th.gallery_column {
+.gallery_image_title {
   color: red;
   font-size: x-small;
   font-weight: normal;
+  padding: 0px;
+}
+
+th.gallery_column {
   text-align: right;
   padding: 4px; 
 }
