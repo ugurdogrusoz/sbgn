@@ -12,13 +12,13 @@ img.gallery_thumbnail {
 }
 
 #gallery_image_title div {
-  font: 11px;
+  font: 9px;
   font-weight: normal;
 }
 
 th.gallery_column {
   text-align: right;
-  padding: 10px; 
+  padding: 5px; 
 }
 
 body {
