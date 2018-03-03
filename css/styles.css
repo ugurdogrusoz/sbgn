@@ -8,7 +8,7 @@
 
 img.gallery_thumbnail {
   height: 140px;
-  border: 1px solid gray;
+  border: 4px solid gray;
 }
 
 p.gallery_image_title {
@@ -21,7 +21,7 @@ p.gallery_image_title {
 
 th.gallery_column {
   text-align: center;
-  padding: 10px; 
+  padding: 6px; 
 }
 
 body {
