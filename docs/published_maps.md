@@ -20,8 +20,8 @@ This page collects examples of SBGN-compliant diagrams from various publications
       <a href="/sbgn/images/published_maps/lenovere_genenetwork.png" data-lightbox="image-gallery" data-title="Quantitative and logic modelling of molecular and gene networks. Le Novère, 2015, <a href='https://dx.doi.org/10.1038/nrg3885'>doi:10.1038/nrg3885</a>"><img class="gallery_thumbnail" src="/sbgn/images/published_maps/lenovere_genenetwork-cropped.png" title="PD map of two-gene system behaviour"/></a>
       </th>
       <th class="gallery_column">
-      <p class="gallery_image_title">PD map of protein aggregation, <a href="https://dx.doi.org/10.1002/psp4.12155">10.1002/psp4.12155</a></p>
-      <a href="/sbgn/images/published_maps/lloretVillas_proteinaggregation.png" data-lightbox="image-gallery" data-title="The impact of mathematical modeling in understanding the mechanisms underlying neurodegeneration: evolving dimensions and future directions. Lloret-Villas et al., 2017, <a href='https://dx.doi.org/10.1002/psp4.12155'>10.1002/psp4.12155</a>"><img class="gallery_thumbnail" src="/sbgn/images/published_maps/lloretVillas_proteinaggregation-cropped.png" title="PD map of protein aggregation"/></a>
+      <p class="gallery_image_title">PD map of protein aggregation, <a href="https://dx.doi.org/10.1002/psp4.12155">doi:10.1002/psp4.12155</a></p>
+      <a href="/sbgn/images/published_maps/lloretVillas_proteinaggregation.png" data-lightbox="image-gallery" data-title="The impact of mathematical modeling in understanding the mechanisms underlying neurodegeneration: evolving dimensions and future directions. Lloret-Villas et al., 2017, <a href='https://dx.doi.org/10.1002/psp4.12155'>doi:10.1002/psp4.12155</a>"><img class="gallery_thumbnail" src="/sbgn/images/published_maps/lloretVillas_proteinaggregation-cropped.png" title="PD map of protein aggregation"/></a>
       </th>
     </tr>
     <tr>
